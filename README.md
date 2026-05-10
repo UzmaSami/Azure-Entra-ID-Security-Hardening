@@ -39,6 +39,17 @@ implementation for a hybrid environment including:
 - PowerShell 7.x
 - Microsoft.Graph PowerShell module
 - Az PowerShell module
+  
+## Key Results
+- 5 Conditional Acess Policies implemented
+- Complete MFA coverage audit
+- Zero guest users with admin roles
+- All privileged accounts documented
+- Automated security reporting
+
+## Author
+### Uzma Shabbir
+ 
 
 ## Deployment Order
 
@@ -68,13 +79,3 @@ implementation for a hybrid environment including:
 # Step 7: Generate final report
 .\06-audit-compliance\generate-security-report.ps1
 
-## Key Results
-- 5 Conditional Acess Policies implemented
-- Complete MFA coverage audit
-- Zero guest users with admin roles
-- All privileged accounts documented
-- Automated security reporting
-
-## Author
-## Uzma Shabbir
- 
