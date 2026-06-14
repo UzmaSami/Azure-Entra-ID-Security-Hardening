@@ -1,4 +1,4 @@
-# 🔐 Project-2-Azure-Entra-ID-Security-Hardening
+# 🔐 Azure-Entra-ID-Security-Hardening
 
 
 ## Architecture
